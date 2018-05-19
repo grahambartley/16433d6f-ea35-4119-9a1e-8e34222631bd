@@ -95,11 +95,7 @@ public class Main {
         Helper.tab(1);
         System.out.println("|||||||||  ||||||||       ||||||  ||    ||  ||         |||||||||");
         Helper.newLine(1);
-        Helper.sleep(3);
-        Helper.tab(4);
-        System.out.println("An adventure-puzzle game by Graham Bartley.");
-        Helper.newLine(1);
-        Helper.sleep(5);        
+        Helper.sleep(3);       
     }
     
     //prints the main menu
